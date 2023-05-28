@@ -58,6 +58,6 @@ while True:
 # CLIENT OUTPUT:
 ![2cliout](https://github.com/MOHAMEDROSHAN5/19CS406-EX-1/assets/121704588/a7a93261-b9ad-4cde-a1ee-5ca2e3ce04d7)
 # RESULT:
-### Thus, the program to implement socket programming date and time display from client to
-### server using TCP Sockets was successfully executed.
+#### Thus, the program to implement socket programming date and time display from client to
+#### server using TCP Sockets was successfully executed.
 
